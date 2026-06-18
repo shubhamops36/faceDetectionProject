@@ -61,7 +61,9 @@ python3 live_face_detection.py --no-mirror
 7. Displays the live video feed.
 8. Press ESC to close the application.
 
-## Output
+## Output## Screenshot
+
+![Live Face Detection Output](screenshot.png)
 
 * Webcam video stream appears in a window named **Live Face Detection**.
 * Detected faces are marked with green rectangles.
